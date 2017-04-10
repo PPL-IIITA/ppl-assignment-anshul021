@@ -22,8 +22,8 @@ Command for command prompt in Windows :
 
 Class Diagram :
 
-The class diagram has been made.
+The class diagram is also made for question 3.
 
 Documentation :
 
-Documentation is generated using javadoc.
+Documentation is generated using javadoc and is present in /dist/javadoc and run index.html .
