@@ -18,7 +18,7 @@ In the given test files, the value of 'k' has been generated randomly.The text f
 
 Command for command prompt in Windows :
 
-/build/classes/ > java Q3
+\build\classes\ > java Q3
 
 Class Diagram :
 
